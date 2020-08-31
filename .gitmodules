@@ -1,0 +1,12 @@
+[submodule "libmpc"]
+	path = libmpc
+	url = https://github.com/ctarbide/musepack_libmpc.git
+	branch = master
+[submodule "libcuefile"]
+	path = libcuefile
+	url = https://github.com/ctarbide/musepack_libcuefile.git
+	branch = master
+[submodule "libreplaygain"]
+	path = libreplaygain
+	url = https://github.com/ctarbide/musepack_libreplaygain.git
+	branch = master
